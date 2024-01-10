@@ -1,0 +1,1 @@
+/Users/canarsoy/.config/nvim/keybindings.vim

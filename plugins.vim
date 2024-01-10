@@ -1,0 +1,1 @@
+/Users/canarsoy/.config/nvim/vim-plug/plugins.vim
